@@ -1,0 +1,271 @@
+19:41:52	 From Muhammad Yusuf : aman pak
+19:44:23	 From Muhammad Yusuf : ya allah, loloskanlah hamba🥹
+19:44:41	 From Amin Sabari : Replying to "ya allah, loloskanla..."
+
+aamiinn pakkk..
+19:44:47	 From Muhammad Yusuf : Replying to "ya allah, loloskanla..."
+
+amiin
+19:45:26	 From Muhammad Yusuf : semoga dengan ikut ini, bisa nambah cv supaya dapet kerja
+19:45:48	 From Suyanto : Replying to "ya allah, loloskanla..." 
+
+ Aamiin 
+Smoga Allah mudahkan
+19:48:34	 From Hariawan Maulana : Apakah bisa mengirim lebih dari 1 kali ?
+19:49:52	 From Muhammad Yusuf : Reacted to "Aamiin 
+Smoga Allah ..." with 🤲🏻
+19:49:56	 From Muhammad Yusuf : Reacted to "aamiinn pakkk.." with 🤲🏻
+19:52:16	 From Amin Sabari : pak nanti dibantu ppt di share juga ya
+19:52:33	 From Binson Hutagalung : so far clear, Pak Feris
+19:52:42	 From Muhammad Yusuf : pak berarti pengerjaan hanya jam 7-10 tgl 9 ya
+19:53:36	 From Binson Hutagalung : Replying to "pak berarti pengerja..."
+
+7-10 bisa bwt ngecek system, pak Yusuf. Pengerjaan dri jam10 tggl 9 smpe jam 10tggl 10
+19:53:50	 From DQ Lab : Reacted to "7-10 bisa bwt ngecek..." with 👍
+19:53:51	 From Muhammad's Notetaker (Otter.ai) : Takeaways from the meeting 👉💬 
+
+[ ] Create a WhatsApp group for hackathon participants so they can communicate faster than via email. (Feris)
+[ ] Publish the official hackathon theme to participants when they can see the leaderboard. (Feris)
+[ ] Configure and use a nickname system for participants, assigning a standard nickname (e.g., "DQ lab hackathon user") upon registration and allowing optional nickname changes. (Feris)
+[ ] Inform participants about the reward structure and next steps for the hackathon during the session. (DQ Lab)
+[ ] Monitor and respond to participant emails about registration status, script submissions, and score complaints. (Feris)
+[ ] Publish the hackathon leaderboard and results online after the event. (Feris)
+
+See full summary - https://otter.ai/u/Fld067EwvlrqXC7pAG_ssjbk8QU?utm_source=va_chat&utm_content=wrapup_v4&tab=chat&message=6aceea7c-6d7c-4d0f-84c5-6abbf53524fc
+19:53:58	 From Muhammad Yusuf : Reacted to "7-10 bisa bwt ngecek..." with 🤲🏻
+19:54:43	 From Muhammad Yusuf : Replying to "pak berarti pengerja..."
+
+okey
+19:56:35	 From harisariefkamis : baik kak
+19:56:54	 From Hariawan Maulana : Pak, Misal mengirim submission lebih dari satu kali, apakah yang diambil adalah submission dengan nilai tertinggi atau terbaru?
+19:57:06	 From tian : spill dikit soal nya pak, gimana konsep nya😁
+19:57:19	 From Binson Hutagalung : Reacted to "spill dikit soal nya..." with 😁
+19:58:01	 From Putra : Reacted to "spill dikit soal nya..." with 😁
+19:58:04	 From Daffa Azhari : kalau dilihat systemnya ga beda jauh dengan hackathon komdigi dan DQ Lab waktu itu ya Kak?
+19:58:05	 From evan : Reacted to "spill dikit soal nya..." with 😁
+19:58:19	 From DQ Lab : Reacted to "kalau dilihat system..." with 👍
+19:58:31	 From ETTY YULINAR : Reacted to "kalau dilihat syst..." with 👍
+19:58:43	 From MHD HUSEIN : Reacted to "spill dikit soal n..." with 😁
+19:58:46	 From MHD HUSEIN : Removed a 😁 from "spill dikit soal n..."
+20:00:34	 From Rizki Hidayat : Tapi nggak ada ML kan pak?
+20:00:38	 From C4 : berarti yang dikumpulkan nanti berupa notebook kak?, untuk metrik penilaiannya bagaimana kak jika dari notebook
+20:00:38	 From Amin Sabari : pak terkait originality misal penggunaan bantuan dari AI yang jadi penggurangan poin bagian seperti apa pak tolak ukurnya?
+20:01:00	 From Dhea Cindera : tugas yang dikerjakan harus menggunakan phyton atau bisa menggunakan excel atau power BI pak?
+20:01:19	 From tian : format pengumpulan file nya .ipynb atau .py pak?
+20:01:20	 From Rizki Hidayat : Waduh
+20:01:22	 From Saipul : Visualisasinya apakah mutlak harus sama persis seperti expected output yg ditentukan atau bisa dilakukan improvisasi?
+20:01:27	 From harisariefkamis : penggunaan Ai pak?
+20:01:45	 From Bayu Frassetyo Wibowo : Copied pak
+20:01:58	 From Muhammad Arya Rumanga : seru nih
+20:02:04	 From Amin Sabari : .ipynb
+20:02:18	 From Robert : Jadi gak bisa pake google colab yag ?
+20:03:11	 From Rifky_medan : berarti dikumpulkan dalam bentuk file .py ya pak. dan pengumpulanya dikirim ke email ya pak
+20:03:18	 From Abdullah : bobot penilaiannya lebih ke insight yang didapat ya pak?
+20:03:20	 From Muhammad Iqbal : Ai juga gak sepenuhnya akurat buat codingan
+20:03:28	 From Anwar Rohmadi : Untuk soal dibuka jam berapa pak?, terimakasih
+20:03:46	 From Muhamad Fahmi Ammar : Mas Feris izin bertanya, kira2 waktunya 24H atau berapa lama ya, maaf baru datang,🙏🏼
+20:03:54	 From Nur Sofiyulloh N : apa ada penilaian khusus terhadap penggunaan syntax untuk menghasilkan output data dan visualnya? in case jika ada yang menggunakan syntax yang terlampau rumit apakah akan mengurangi nilai?
+20:04:42	 From Rifky_medan : maaf saya ga ngudeng tadi pak, untuk soal dan jam mulai lombanya aka dikirim dimana ya
+20:04:43	 From Ram : Apakah setelah jam 10 selama 24 jam itu , apakah sistem nya masih bisa diakses pak? Selain request soal dan submit soal
+20:04:54	 From Bayu Frassetyo Wibowo : Berarti nanti sesuai template yang diberikan ya pak
+20:05:12	 From Abdullah : saya kira notebook bapak, mengingat bidang ini seringkali bekerja dengan notebook
+20:05:42	 From Putra : pak apakah project yg dibuat boleh di sharing ke linkedin? sebagai portofolio mengikuti hackaton ini? terima kasih
+20:06:21	 From tian : apakah dalam file .py juga di harus kan, memasukkan insght yang di dapat pak?? atau hanya script dan visual saja??
+20:07:16	 From Hafizah Mufida : scoringnya apakah by manusia atau by system ya pak? kalo by system kan bisa submit 24 jam hehehe
+20:09:07	 From Saily : Nanti dapat guide book kan kak
+20:09:14	 From Jian Hazel Sitorus_103012300187 : mau nanya pak, sistem nya itu apakah ntar ada webnya atau tugas nya itu dikirim lewat masing masing email peserta pak? Terimakasih
+20:09:20	 From Ardian : tanya, yang di uji file .py nya ya?
+20:09:30	 From Hariawan Maulana : Replying to "mau nanya pak, siste..." 
+
+ Email
+20:09:54	 From Raffa : maaf pak mau tanya, tadi untuk pengiriman email berbeda maksimal/ minimal 5 menit ya?
+20:09:58	 From Jian Hazel Sitorus_103012300187 : Replying to "mau nanya pak, siste..."
+
+Terimakasih informasinya
+20:11:21	 From Saipul : Library untuk olah data kan sangat banyak ya pak, nanti apakah juga akan ditentukan atau fleksibel aja
+20:11:36	 From Abdullah : spesifik metrik dari correctness ini apa ya bapak? Atau banyak metrik?
+20:11:55	 From 046_Fajar Kurnia : izin bertanya jika ingin melihat detail intruksi alur pengerjaan hingga pengumpulan, jika masih ada yang bingung apakah akan diberikan?
+20:12:54	 From harisariefkamis : Apakah ada sesi prentase output setelah terpilih ya pak?
+20:14:37	 From IMAM JAENURI_KAB BEKASI : berapa banyak soal pak
+20:14:59	 From Ardian : tanya, boleh tahu rubrik penilaiannya seperti apa?
+20:15:13	 From Muhamad Fahmi Ammar : oh ya pak, mau tanya lagi, apakah setelah pengumpulan email ada presentasi pak feris?
+20:15:17	 From Feris : https://docs.google.com/presentation/d/1X8R9jOZE33pEPhjBl8QiJ-9SpBr2pKJRDgdisbm7b_c/edit?usp=sharing
+20:15:32	 From Raffa : sudah pak
+20:15:33	 From Ulfa Sartika_Sumbagteng : dapet pak
+20:15:34	 From harisariefkamis : udah pak
+20:15:35	 From Dewi Sakinah : dapet pak
+20:15:35	 From Binson Hutagalung : sudah, pak
+20:15:37	 From 046_Fajar Kurnia : bisa pak
+20:17:36	 From Binson Hutagalung : Wah, mantap. Keren nih kalau bisa rutin, Kak Yovita
+20:18:31	 From C4 : file py itu berarti satu kode penuh di satu sel ya pak?
+20:18:42	 From Abdullah : studi kasus yang digunakan apa ya pak, klasifikasi kah atau bagaimana?
+20:18:59	 From tian : Membalas ke "file py itu berart..."
+
+iya kak
+20:19:09	 From were dreamin : untuk tools yang digunakan apakah nanti akan dikasih tau atau dibebasin ya pak?
+20:19:33	 From Putra : jadi ngga sabar😁
+20:19:39	 From Muhamad Fahmi Ammar : untuk format email pengiriman nya itu seperti apa ya pak feris,
+20:19:45	 From p : buat sertifikatnya gimana ya kak dapetnya
+20:20:00	 From Doni Saputra : lebih ke solving business case ya Kak
+20:21:09	 From tian : adain terus hackhton nya pak, biar ada event kompetsi online😁.
+20:21:42	 From Saipul : Plis nanti adain pembahasan ya pak Feris dan bu Yovita 👐 biar at least bisa belajar
+20:21:43	 From C4 : automl boleh ga pak hhe
+20:21:52	 From Idham Maulana : Pak, izin memastikan lagi, berarti output yang dikumpulkan via email tuh hanya 1 file .py saja atau ada tambahan lain?
+20:21:53	 From tian : jarang jarang ada event begini pak hehe
+20:22:01	 From Abdullah : kalau dibuat modular atau file python ada banyak diperbolehkan pak? Saya terbiasa menggunakan notebook😁
+20:22:19	 From Abdillah : berarti kita harus redeem voucher dqlabnya dulu ya sblm mengikuti hackathon?
+20:22:21	 From Abdullah : Replying to "kalau dibuat modul..."
+
+nanti dijadikan satu zip
+20:23:17	 From LA ODE SURADIN : Cara registras di emailnya bagai bagaimana
+20:23:20	 From were dreamin : apakah nanti setelah selesai hackathon bisa minta hasil ranking/scoringnya pak?
+20:23:29	 From Nina : Yang dapat sertifikat seluruh peserta atau top participant?
+20:24:28	 From Muhammad Iqbal : Kalo bisa Hackathonnya yg SQLnya heheh
+20:24:37	 From Ardian : tanya, kalau udah kirim jawaban. apa masih bisa revisi?
+20:25:03	 From Jakakrisna : tidak perlu slide presentasi ya pak?
+20:25:18	 From Amin Sabari : Pak untuk peserta yang berada di ranking 1 2 3 (leaderboard) teratas apakah nnti dapat rekomendasi juga ke perusahaan mitra selain dapat benefit yang lain seperti sertifikat, mungkin klo ada peserta job seeker atau fresh graduate
+20:25:31	 From Ima : Klo python blm mahir bgmn?
+20:25:31	 From Dhea Cindera : keterangan dan insight berarti dijelaskan di file .py itu ya kak?
+20:25:42	 From Putra : Reacted to "Kalo bisa Hackathonn..." with 👍
+20:26:01	 From Hariawan Maulana : Replying to "Klo python blm mahir..." 
+
+ Marathon latihan di dqlab, kan dapet akses 1 bulan
+20:26:03	 From Putra : Replying to "Kalo bisa Hackathonn..."
+
+setuju
+20:26:20	 From Devin Tandrew  To  DQ Lab(privately) : Halo Kak, aku baru cek sosial media DQLab dan Website Resmi untuk join, kenapa saya ga dapat email confirmation ya?
+20:28:20	 From Muhammad Iqbal : Reacted to Kalo bisa Hackathonn... with "👍"
+20:28:27	 From C4 : 24 jam itu dari jam 7 atau jam 10 kak?
+20:28:32	 From tian : Memberi reaksi pada "Pak untuk peserta ..." dengan 😮
+20:29:03	 From Putra : Replying to "24 jam itu dari jam ..."
+
+jam 10
+20:29:55	 From tian : kerenn
+20:30:44	 From Joycelin  To  DQ Lab(privately) : pak ada batasan maksimal submit jawaban engga ya pak?
+20:31:05	 From Binson Hutagalung : Reacted to "Marathon latihan di ..." with 😂
+20:31:07	 From Ferdy Febrian Iskandar : Reacted to "Marathon latihan di ..." with 😂
+20:31:08	 From Syahril : Reacted to Kalo bisa Hackathonn... with "👍"
+20:31:12	 From Raffa : Reacted to "Marathon latihan di ..." with 😂
+20:31:14	 From Syahril : Removed a 👍 reaction from "Kalo bisa Hackathonn..."
+20:31:17	 From Syahril : Reacted to Kalo bisa Hackathonn... with "👏"
+20:31:21	 From Raffa : Reacted to "Kalo bisa Hackathonn..." with 👍
+20:31:25	 From were dreamin : perlu tools seperti excel dll atau hanya python pak?
+20:31:25	 From Putra : Reacted to "Marathon latihan di ..." with 😂
+20:31:32	 From DQ Lab : Reacted to "Kalo bisa Hackathonn..." with 👍
+20:31:43	 From Raffa : Replying to "Kalo bisa Hackathonn..."
+
+setujuu
+20:32:10	 From Amin Sabari : iya SQL kapan nihhh pakkk can't waitt
+20:32:13	 From Bayu Frassetyo Wibowo : Reacted to Kalo bisa Hackathonn... with "👍"
+20:32:15	 From tian : sql kakkk
+20:32:20	 From Idham Maulana : Pak, jika ada insight berupa text yang ditambahkan pada .py nya, apakah nanti justru bisa berpengaruh ke pengurangan nilai pada sistem?
+20:32:33	 From Joycelin  To  DQ Lab(privately) : pak ada batasan maksimal submit jawaban engga ya pak?
+20:33:21	 From Putra : Replying to "Pak, jika ada insigh..."
+
+bisa jadi, mengurangi kecepatan eksekusi kode
+20:33:41	 From Devin Tandrew : Aku setelah pembayaran cuma dapet kode redeem tidak ada technical meeting Kak dll, untuk ini nanti ada record nya kan ya?
+20:34:32	 From Ram : Replying to "Aku setelah pembayaran cuma dapet kode redeem tidak ada technical meeting Kak dll, untuk ini nanti ada record nya kan ya?"
+
+Sama kak wkwkw
+20:34:44	 From Saipul : Adain offline seru juga nih wkwkw
+20:35:36	 From Rizki Hidayat : Jadi fokus ke ngoding aja ya gak perlu masukkin coment gitu
+20:35:51	 From tian : Membalas ke "Jadi fokus ke ngod..."
+
+iya kak
+20:35:57	 From Aqsa : Baru bisa joinnn 😭
+20:36:00	 From were dreamin : berarti tidak perlu inisght berupa teks, fokus untuk visualisasinya saja ya?
+20:36:17	 From Devin Tandrew : Berarti aku ketinggal grup wa nya 😔, tapi tadi aku udaa chat kok
+20:36:34	 From Rizki Hidayat : Replying to "Jadi fokus ke ngodin..." 
+
+ Siap kak
+20:36:36	 From Muhamad Fahmi Ammar : pak Feris info loker ada ga pak😂
+20:36:41	 From Ardian : untuk level ngoding python nya sampai apa ya?
+20:36:43	 From Aqsa : Yeayyyy, makasih kaaa
+20:36:45	 From tian : Memberi reaksi pada "pak Feris info lok..." dengan 😂
+20:36:49	 From Hariawan Maulana : Reacted to pak Feris info loker... with "😂"
+20:36:51	 From Raffa : Reacted to "pak Feris info loker..." with 😂
+20:36:52	 From Amin Sabari : Reacted to "pak Feris info loker..." with 😁
+20:36:57	 From Dewi Sakinah : Replying to "pak Feris info lok..."
+
+to the point banget wkwk
+20:37:10	 From Bayu Frassetyo Wibowo : Reacted to pak Feris info loker... with "😲"
+20:37:13	 From Putra : Reacted to "pak Feris info loker..." with 😁
+20:37:19	 From Safira : Reacted to "pak Feris info loker..." with 😁
+20:37:20	 From Amin Sabari : Replying to "pak Feris info loker..."
+
+singkat padat terarah
+20:37:22	 From Syahril : Reacted to pak Feris info loker... with "👍"
+20:37:29	 From Putra : Reacted to "pak Feris info loker..." with 🔥
+20:37:34	 From Putra : Reacted to "pak Feris info loker..." with 😂
+20:37:36	 From Putra : Reacted to "pak Feris info loker..." with 😲
+20:37:37	 From Putra : Reacted to "pak Feris info loker..." with 👍
+20:37:44	 From Devin Tandrew : Reacted to pak Feris info loker... with "😂"
+20:37:52	 From Muhamad Fahmi Ammar : Replying to "pak Feris info loker..."
+
+yoii lah, takut ketimbun jauh pertanyaan penting ini gaes😂
+20:37:58	 From Muhammad Yusuf : hadiahnya apa aja nih kak, dan nilai tertinggi kriterianya apa ya pak?
+20:38:16	 From Ardian : Intermediate masih ok lah ya?
+20:38:26	 From tian : Memberi reaksi pada "Intermediate masih..." dengan 👍
+20:38:26	 From Devin Tandrew : Dan untuk web DQLab aku juga belum ada leaderboard nya Kak, antara emang belum update atau hanya punya aku
+20:38:32	 From Muhammad Yusuf : Ama Info loker kerja di DQLab
+20:39:05	 From evan : Reacted to "pak Feris info loker..." with 😁
+20:39:19	 From Hariawan Maulana : Spill jumlah peserta yang ikut hackathon ini dong kak.. 😁
+20:39:24	 From MHD HUSEIN : Reacted to "Intermediate masih..." with 👍
+20:39:25	 From Shodiq : Kalo ngodingnya di google colab trus kodenya di download dlm bentuk py boleh ga pak
+20:39:26	 From MHD HUSEIN : Removed a 👍 from "Intermediate masih..."
+20:40:35	 From harisariefkamis : Replying to "Spill jumlah peserta..."
+
+3K
+20:40:50	 From tian : wahhh
+20:40:54	 From Ardian : wow
+20:41:00	 From Dewi Sakinah : woww
+20:41:03	 From Putra : waduh
+20:41:04	 From tian : jadi pengen #1
+20:41:11	 From Muhammad Yusuf : waduh...menang lomba 1:400
+20:41:17	 From Raffa : waduhh
+20:41:26	 From Safira : Reacted to "jadi pengen #1" with 👏
+20:41:32	 From Amin Sabari : pak interval dari batch ke batch hackathon berapa lama ya pak biar mau disiapin sekarang dan apa tools next hackathon berikutnya 😁
+20:41:33	 From Ardian : 400 ??? wow
+20:41:53	 From Muhamad Fahmi Ammar : me vs everybody😭
+20:42:07	 From Putra : Reacted to "me vs everybody😭" with 😭
+20:42:16	 From Aqsa : Reacted to "me vs everybody😭" with 😭
+20:42:23	 From Hariawan Maulana : Reacted to me vs everybody😭 with "😭"
+20:42:53	 From Devin Tandrew : Reacted to me vs everybody😭 with "😭"
+20:43:01	 From harisariefkamis : rekomendasi push project Hackathon pak? hihihi
+20:43:17	 From Syahril : Reacted to me vs everybody😭 with "👺"
+20:43:22	 From Putra : Reacted to "me vs everybody😭" with 👺
+20:43:27	 From Ardian : Hacketon nya pakai kelas dong, beginner, intermediate dan advance 😁
+20:43:41	 From Syahril : Reacted to Hacketon nya pakai k... with "😎"
+20:43:45	 From tian : Membalas ke "Hacketon nya pakai..."
+
+enggak hackhton namnya kak kalau gitu
+20:43:56	 From evan : Reacted to "enggak hackhton namn..." with 👍
+20:44:20	 From Muhammad Refki Bakhtiar : Untuk pemula bisa menang gak ya? 😁
+20:45:03	 From Dewi Sakinah : sudah
+20:45:04	 From Aqsa : Masuk top 50% kyknya udah keren (mengalahkan 200 orang) wkwk
+20:45:06	 From Ardian : Replying to "Hacketon nya pakai k..."
+
+Iya biar yg beginner ngak tanding sama yg advance 😁
+20:45:36	 From Muhammad Yusuf : DQLab tidak buka BNSP Ai dan Machine Learning kah pak?
+20:46:06	 From harisariefkamis : Replying to "DQLab tidak buka BNS..."
+
+udah ada pak di sistemnya bootcamp pak
+20:46:29	 From harisariefkamis : Replying to "DQLab tidak buka BNS..."
+
+website Dqlab
+20:48:03	 From tian : yang jadi mentor nya top 3 kah  kak?
+20:48:03	 From Amin Sabari : Kak untuk sertifikasi BNSP apakah boleh pilih Data Engineer karena saya sudah ada sertifikasi BNSP Data Analyst, BI Analyst dan Data Scientist?
+20:48:22	 From Amin Sabari : Replying to "Kak untuk sertifikas..."
+
+Misal dapat 3 besar
+20:50:22	 From Muhamad Fahmi Ammar : fotbar kah eh,
+20:50:30	 From Ardian : Cukup, semangat belajar
+20:50:33	 From Binson Hutagalung : thank you, k yovita, pak feris
+20:50:35	 From harisariefkamis : thank you pak
+20:50:39	 From Muhamad Fahmi Ammar : thanks
+20:50:40	 From Dewi Sakinah : makasih jugaaa
+20:50:41	 From Bosi M. : Replying to "Kak untuk sertifikas..."
+
+Terima kasih semua
+20:50:42	 From Daffa Azhari : Terimakasih Pak atas informasinya
+20:50:43	 From Muhammad Iqbal : terima kasih
